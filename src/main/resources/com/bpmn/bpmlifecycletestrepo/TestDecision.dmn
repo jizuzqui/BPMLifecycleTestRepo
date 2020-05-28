@@ -20,7 +20,7 @@
           <dmndi:StrokeColor red="0" green="0" blue="0"/>
           <dmndi:FontColor red="0" green="0" blue="0"/>
         </dmndi:DMNStyle>
-        <dc:Bounds x="443" y="244" width="100" height="50"/>
+        <dc:Bounds x="398" y="231" width="100" height="50"/>
         <dmndi:DMNLabel/>
       </dmndi:DMNShape>
       <dmndi:DMNShape id="dmnshape-_66CCE223-D7AC-4CC0-A51B-E3107FC82526" dmnElementRef="_66CCE223-D7AC-4CC0-A51B-E3107FC82526" isCollapsed="false">
